@@ -57,8 +57,6 @@ h3{
 }
 .item{
     flex: 1;
-    border: solid black;
-    border-width: 4px;
     padding: 20px 20px;
     align-items: center;
 }
